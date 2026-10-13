@@ -1,0 +1,7 @@
+# Compiled Python files - rebuilt automatically every time the game runs
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
